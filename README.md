@@ -1,1 +1,1 @@
-# Data-Structure
+# Searching Algorithms
