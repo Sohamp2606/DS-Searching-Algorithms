@@ -91,9 +91,10 @@ The following steps are followed to search for an element k = 1 in the list belo
   
 <br>
 
-## Thank You , Keep Learning Keep Coding
 
 ![Screenshot 2023-08-10 200419](https://github.com/Sohamp2606/Searching-Algorithms/assets/106002920/12e8a8fe-3db2-49c0-a9e1-76e7ee7b82f6)
 
+<br>
 
+## Thank You , Keep Learning Keep Coding
 
